@@ -14,10 +14,11 @@
     name: 'App',
     created() {
       if (this.$route.path === "/katilimci") {
-        console.log('s')
+        //window.open('https://streamyard.com/8sd3aewni5');
       }
       else {
-        console.log('y')
+        const id = "";
+        window.open(`https://www.youtube.com/watch?v=${id}`, '_blank');
       }
     }
   }
