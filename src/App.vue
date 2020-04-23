@@ -22,7 +22,7 @@
       return {
         katilimciMi: false,
         streamyard: 'https://streamyard.com/c84quhsx4m',
-        youtube: ''
+        youtube: 'https://www.youtube.com/watch?v=fScvEDlfGBg'
       }
     },
     created() {
