@@ -6,19 +6,31 @@
       <router-link to="/about">About</router-link>
     </div>
     <router-view/>-->
+    <h3 v-if="katilimciMi">
+      <a :href="streamyard">Canlı Yayına Katılmak İçin Tıklayın!</a>
+    </h3>
+    <h3 v-else>
+      <a :href="youtube">Canlı Yayını İzlemek İçin Tıklayın!</a>
+    </h3>
   </div>
 </template>
 
 <script>
   export default {
     name: 'App',
+    data() {
+      return {
+        katilimciMi: false,
+        streamyard: '',
+        youtube: ''
+      }
+    },
     created() {
       if (this.$route.path === "/katilimci") {
-        //window.open('https://streamyard.com/8sd3aewni5');
+        this.katilimciMi = true;
       }
       else {
-        const id = "";
-        window.open(`https://www.youtube.com/watch?v=${id}`, '_blank');
+        this.katilimciMi = false;
       }
     }
   }
