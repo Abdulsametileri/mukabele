@@ -21,7 +21,7 @@
     data() {
       return {
         katilimciMi: false,
-        streamyard: '',
+        streamyard: 'https://streamyard.com/c84quhsx4m',
         youtube: ''
       }
     },
