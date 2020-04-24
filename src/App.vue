@@ -11,6 +11,11 @@
     </h3>
     <h3 v-else>
       <a :href="youtube">Canlı Yayını İzlemek İçin Tıklayın!</a>
+      <br>
+
+      <h3>Geçmiş Yayınlarımız</h3>
+
+      <a href="https://www.youtube.com/watch?v=oB1zixMQEro">RAMAZAN MUKABELESİ 1. CÜZ</a>
     </h3>
   </div>
 </template>
