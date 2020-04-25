@@ -27,8 +27,8 @@
     data() {
       return {
         katilimciMi: false,
-        streamyard: 'https://streamyard.com/xbs8kq3s4x',
-        youtube: 'https://www.youtube.com/watch?v=5jKn8cbNa-E'
+        streamyard: 'https://streamyard.com/s8a64uv7xa',
+        youtube: 'https://www.youtube.com/watch?v=2liZ3Q4auy0'
       }
     },
     created() {
