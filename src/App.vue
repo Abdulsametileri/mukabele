@@ -19,6 +19,7 @@
       <br>
       <a href="https://www.youtube.com/watch?v=5jKn8cbNa-E">RAMAZAN MUKABELESİ 2. CÜZ</a>
       <br>
+      <a href="https://www.youtube.com/watch?v=cljLguKrwr8">RAMAZAN MUKABELESİ 3. CÜZ</a>
     </h3>
   </div>
 </template>
