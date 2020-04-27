@@ -20,6 +20,8 @@
       <a href="https://www.youtube.com/watch?v=5jKn8cbNa-E">RAMAZAN MUKABELESİ 2. CÜZ</a>
       <br>
       <a href="https://www.youtube.com/watch?v=cljLguKrwr8">RAMAZAN MUKABELESİ 3. CÜZ</a>
+      <br>
+      <a href="https://www.youtube.com/watch?v=ZqOqdJ1fRc4">RAMAZAN MUKABELESİ 4. CÜZ</a>
     </h3>
   </div>
 </template>
@@ -30,8 +32,8 @@
     data() {
       return {
         katilimciMi: false,
-        streamyard: 'https://streamyard.com/kpvp4khyam',
-        youtube: 'https://www.youtube.com/watch?v=ZqOqdJ1fRc4'
+        streamyard: 'https://streamyard.com/rrwbt5h9jw',
+        youtube: 'https://www.youtube.com/watch?v=Vg1BoPqmYVY'
       }
     },
     created() {
