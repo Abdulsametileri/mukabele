@@ -30,6 +30,11 @@
       <a href="https://www.youtube.com/watch?v=j7oN4K593Zk">RAMAZAN MUKABELESİ 7. CÜZ</a>
       <br>
       <a href="https://www.youtube.com/watch?v=DJhUI13_oMc">RAMAZAN MUKABELESİ 8. CÜZ</a>
+      <br>
+      <a href="https://www.youtube.com/watch?v=F2Il2Q0UeCc">RAMAZAN MUKABELESİ 9. CÜZ 1-10. Sayfalar</a>
+      <br>
+      <a href="https://www.youtube.com/watch?v=unK9FzJUffY">RAMAZAN MUKABELESİ 9. CÜZ 11-20. Sayfalar</a>
+    
     </h3>
   </div>
 </template>
@@ -40,8 +45,8 @@
     data() {
       return {
         katilimciMi: false,
-        streamyard: 'https://streamyard.com/pmep3vmebm',
-        youtube: 'https://www.youtube.com/watch?v=F2Il2Q0UeCc'
+        streamyard: 'https://streamyard.com/njdkactbds',
+        youtube: 'https://www.youtube.com/watch?v=VgMDhqH68ts'
       }
     },
     created() {
