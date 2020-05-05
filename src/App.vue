@@ -36,6 +36,8 @@
       <a href="https://www.youtube.com/watch?v=unK9FzJUffY">RAMAZAN MUKABELESİ 9. CÜZ 11-20. Sayfalar</a>
       <br>
       <a href="https://www.youtube.com/watch?v=VgMDhqH68ts">RAMAZAN MUKABELESİ 10. CÜZ</a>
+      <br>
+      <a href="https://www.youtube.com/watch?v=81_IRjjhcOA">RAMAZAN MUKABELESİ 11. CÜZ</a>
     </h3>
   </div>
 </template>
@@ -46,8 +48,8 @@
     data() {
       return {
         katilimciMi: false,
-        streamyard: 'https://streamyard.com/damb7su66v',
-        youtube: 'https://www.youtube.com/watch?v=81_IRjjhcOA'
+        streamyard: 'https://streamyard.com/d7xcamrjw7',
+        youtube: 'https://www.youtube.com/watch?v=SV9e2nI6R_k'
       }
     },
     created() {
