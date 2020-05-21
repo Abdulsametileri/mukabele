@@ -69,7 +69,7 @@
       <br>
       <a href="https://www.youtube.com/watch?v=P6rJx06bJNM">RAMAZAN MUKABELESİ 26. CÜZ</a>
       <br>
-      <a href="https://www.youtube.com/watch?v=P6rJx06bJNM">RAMAZAN MUKABELESİ 27. CÜZ</a>
+      <a href="https://www.youtube.com/watch?v=E5lo0vLTsNw">RAMAZAN MUKABELESİ 27. CÜZ</a>
     </h3>
   </div>
 </template>
