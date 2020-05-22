@@ -80,8 +80,8 @@
     data() {
       return {
         katilimciMi: false,
-        streamyard: 'https://streamyard.com/g4th4c7jh3',
-        youtube: 'https://www.youtube.com/watch?v=oxbdIdFG0pM'
+        streamyard: 'https://streamyard.com/d9s3vijida',
+        youtube: 'https://www.youtube.com/watch?v=qr4-X8bvPjM'
       }
     },
     created() {
