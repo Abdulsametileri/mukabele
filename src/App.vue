@@ -70,6 +70,10 @@
       <a href="https://www.youtube.com/watch?v=P6rJx06bJNM">RAMAZAN MUKABELESİ 26. CÜZ</a>
       <br>
       <a href="https://www.youtube.com/watch?v=E5lo0vLTsNw">RAMAZAN MUKABELESİ 27. CÜZ</a>
+      <br>
+      <a href="https://www.youtube.com/watch?v=oxbdIdFG0pM">RAMAZAN MUKABELESİ 28. CÜZ</a>
+      <br>
+      <a href="https://www.youtube.com/watch?v=qr4-X8bvPjM">RAMAZAN MUKABELESİ 29. CÜZ</a>
     </h3>
   </div>
 </template>
@@ -80,8 +84,8 @@
     data() {
       return {
         katilimciMi: false,
-        streamyard: 'https://streamyard.com/d9s3vijida',
-        youtube: 'https://www.youtube.com/watch?v=qr4-X8bvPjM'
+        streamyard: 'https://streamyard.com/ea2y253e6c',
+        youtube: 'https://www.youtube.com/watch?v=wfD6TmXu0AI'
       }
     },
     created() {
